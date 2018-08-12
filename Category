@@ -1,0 +1,286 @@
+<div class="form-group">
+											<div class="dropdown">
+												<button class="btn btn-default dropdown-toggle"
+													type="button" data-toggle="dropdown" name="category">
+													Medical Category <span class="caret"></span>
+												</button>
+												<ul class="dropdown-menu">
+													<li class="dropdown-submenu">
+													<a class="test" tabindex="-1"
+														href="#">I) Engineering for Healthcare Intervention<span
+															class="caret"></span></a>
+														<ul class="dropdown-menu">
+															<!--  <li><a tabindex="-1" href="#"></a>B. Future of Healthcare</li>-->
+															<li class="dropdown-submenu"><a class="test" href="#">A.
+																	Fundamentals <span class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+																	<li><a href="#">1. Biomechanics</a></li>
+																	<li><a href="#">2. Biomaterials </a></li>
+																	<li><a href="#">3. Biomedical Instruments</a></li>
+																	<li><a href="#">4. Medical Devices </a></li>
+																	<li><a href="#">5. Engineering for Surgery </a></li>
+																	<li><a href="#">6. Medical Imaging </a></li>
+																	<li><a href="#">7. Organ Transplantation </a></li>
+																	<li><a href="#">8. Artificial Organs </a></li>
+																	<li><a href="#">9. Drug Delivery </a></li>
+																	<li><a href="#">10. Genetic Engineering </a></li>
+																	<li><a href="#">11. Engineering for Diagnosis/Detection</a></li>
+																	<li><a href="#">12. Health Informatics, Information
+																			Engineering & Decision Support </a></li>
+																	<li><a href="#">13. Disinfection Engineering </a></li>
+																</ul> 
+																</li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">B. Healthcare Information
+																	Systems<span class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+																	<li><a href="#"> 1. Electronic Health Record </a></li>
+																	<li><a href="#"> 2. E-Health </a></li>
+																	<li><a href="#"> 3. M-Health </a></li>
+																	<li><a href="#"> 4. Telemedicine </a></li>
+																	<li><a href="#"> 5. Wireless Technology </a></li>
+																	<li><a href="#"> 6. Data Mining & Big Data </a></li>
+																	<li><a href="#"> 7. Information Security</a></li>
+																</ul></li>
+																<li class="dropdown-submenu">
+																 <a class="test" href="#">C. Healthcare Facilities<span
+																	class="caret"></span></a>
+																<ul class="dropdown-menu">
+																	<li><a href="#"> 1. Healthcare Infrastructure </a></li>
+																	<li><a href="#"> 2. Healthcare Energy Systems </a></li>
+																	<li><a href="#"> 3. Healthcare Sustainability & Green
+																			Design </a></li>
+																	<li><a href="#"> 4. Environmental Health and Safety </a></li>
+																</ul> </li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">B. Engineering for
+																	Disease Prevention, Diagnosis, Treatment, and
+																	Management<span class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+																	<li><a href="#">1. Cardiovascular Disease </a></li>
+																	<li><a href="#">2. Cancer </a></li>
+																	<li><a href="#">3. Alzheimer's Disease </a></li>
+																	<li><a href="#">4. Diabetes </a></li>
+																	<li><a href="#">5. Respiratory Disease </a></li>
+																	<li><a href="#">6. Obesity </a></li>
+																	<li><a href="#">7. Degenerative Diseases </a></li>
+																	<li><a href="#">8. Others </a></li>
+																</ul> </li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">C. Engineering for
+																	Patient Care<span class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+
+																	<li><a href="#">1. Patient Safety </a></li>
+																	<li><a href="#">2. Critical Care </a></li>
+																	<li><a href="#">3. Neonatal Care </a></li>
+																	<li><a href="#">4. Home Healthcare </a></li>
+																	<li><a href="#">5. Elderly Care </a></li>
+																	<li><a href="#">6. Patient Monitoring </a></li>
+																	<li><a href="#">7. Health Disparities </a></li>
+																	<li><a href="#">8. Disaster Management </a></li>
+																</ul> </li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">D. Engineering for
+																	Medical Specialties<span class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+
+																	<li><a href="#">1. Allergy and Immunology </a></li>
+																	<li><a href="#">2. Anesthesiology </a></li>
+																	<li><a href="#">3. Cardiology </a></li>
+																	<li><a href="#">4. Critical Care Medicine </a></li>
+																	<li><a href="#">5. Emergency Medicine </a></li>
+																	<li><a href="#">6. Endocrinology </a></li>
+																	<li><a href="#">7. Gastroenterology </a></li>
+																	<li><a href="#">8. General Surgery </a></li>
+																	<li><a href="#">9. Geriatrics </a></li>
+																	<li><a href="#">10. Infectious Disease </a></li>
+																	<li><a href="#">11. Neurology </a></li>
+																	<li><a href="#">12. Neurosurgery </a></li>
+																	<li><a href="#">13. Nuclear Medicine </a></li>
+																	<li><a href="#">14. Occupational Medicine </a></li>
+																	<li><a href="#">15. Oncology </a></li>
+																	<li><a href="#">16. Ophthalmology </a></li>
+																	<li><a href="#">17. Orthopedics </a></li>
+																	<li><a href="#">18. Pathology </a></li>
+																	<li><a href="#">19. Pediatrics </a></li>
+																	<li><a href="#">20. Physical Medicine and
+																			Rehabilitation </a></li>
+																	<li><a href="#">21. Plastic, Reconstructive and
+																			Aesthetic Surgery </a></li>
+																	<li><a href="#">22. Public Health </a></li>
+																	<li><a href="#">23. Pulmonology </a></li>
+																	<li><a href="#">24. Radiology </a></li>
+																	<li><a href="#">25. Radiotherapy </a></li>
+																	<li><a href="#">26. Rheumatology </a></li>
+																	<li><a href="#">27. Sports Medicine </a></li>
+																	<li><a href="#">28. Urology </a></li>
+																	<li><a href="#">29. Vascular Medicine </a></li>
+																	<li><a href="#">30. Others </a></li>
+																</ul> </li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">E. Engineering for Dental
+																	Specialties<span class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+
+																	<li><a href="#">1. Endodontics </a></li>
+																	<li><a href="#">2. Oral and Maxillofacial Pathology,
+																			Radiology, and Surgery </a></li>
+																	<li><a href="#">3. Orthodontics and Dentofacial
+																			Orthopedics </a></li>
+																	<li><a href="#">4. Periodontics </a></li>
+																	<li><a href="#">5. Prosthodontics </a></li>
+																	<li><a href="#">6. Others </a></li>
+																</ul> </li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">F.Engineering for Allied
+																	Health Specialties<span class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+
+																	<li><a href="#">1. Audiology </a></li>
+																	<li><a href="#">2. Clinical Laboratory Science </a></li>
+																	<li><a href="#">3. Environmental Health </a></li>
+																	<li><a href="#">4. Occupational Therapy </a></li>
+																	<li><a href="#">5. Orthotics and prosthetics </a></li>
+																	<li><a href="#">6. Physical Therapy </a></li>
+																	<li><a href="#">7. Rehabilitation </a></li>
+																	<li><a href="#">8. Respiratory Therapy </a></li>
+																	<li><a href="#">9. Speech Therapy </a></li>
+																	<li><a href="#">10. Others </a></li>
+																</ul> </li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">G. Engineering for
+																	Nursing - including nursing in all related areas.<span
+																	class="caret"></span>
+															</a>
+																</li>
+
+																	<li class="dropdown-submenu">
+																	<a class="test" href="#">H.Engineering for Pharmacy<span
+																		class="caret"></span></a>
+																	<ul class="dropdown-menu">
+																		<li><a href="#">1. Pharmaceutical Design & Development
+																		</a></li>
+																		<li><a href="#">2. Bio-/Pharmaceutical Manufacturing </a></li>
+																		<li><a href="#">3. Pharmaceutical Devices </a></li>
+																		<li><a href="#">4. Pharmaceutical Testing </a></li>
+																		<li><a href="#">5. Pharmaceutical Information Systems
+																		</a></li>
+																		<li><a href="#">6. Clinical Science </a></li>
+																		<li><a href="#">7. Regulatory Compliance </a></li>
+																	</ul></li>
+														</ul></li>
+
+
+													<li class="dropdown-submenu"><a class="test" tabindex="-1"
+														href="#">(II) Engineering for Healthcare Systems<span
+															class="caret"></span></a>
+														<ul class="dropdown-menu">
+															<li><a tabindex="-1" href="#"></a>B. Future of Healthcare</li>
+															<li class="dropdown-submenu"><a class="test" href="#">A.
+																	Healthcare System Management, Improvement & Reform <span
+																	class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+																	<li><a href="#"> 1.Quality, Cost, Efficiency,
+																			Effectiveness </a></li>
+																	<li><a href="#"> 2. Operations Research & Systems
+																			Engineering </a></li>
+																	<li><a href="#"> 3. Lean, Six Sigma, Total Quality
+																			Management </a></li>
+																	<li><a href="#"> 4. Human Factors </a></li>
+																	<li><a href="#"> 5. High Reliability Organization </a></li>
+																	<li><a href="#"> 6. Resilience Engineering </a></li>
+																	<li><a href="#"> 7. Rural Health</a></li>
+																</ul></li> 
+																<li class="dropdown-submenu">
+																<a class="test" href="#">B. Healthcare Information
+																	Systems<span class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+																	<li><a href="#"> 1. Electronic Health Record </a></li>
+																	<li><a href="#"> 2. E-Health </a></li>
+																	<li><a href="#"> 3. M-Health </a></li>
+																	<li><a href="#"> 4. Telemedicine </a></li>
+																	<li><a href="#"> 5. Wireless Technology </a></li>
+																	<li><a href="#"> 6. Data Mining & Big Data </a></li>
+																	<li><a href="#"> 7. Information Security</a></li>
+																</ul> </li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">C. Healthcare Facilities<span
+																	class="caret"></span></a>
+																<ul class="dropdown-menu">
+																	<li><a href="#"> 1. Healthcare Infrastructure </a></li>
+																	<li><a href="#"> 2. Healthcare Energy Systems </a></li>
+																	<li><a href="#"> 3. Healthcare Sustainability & Green
+																			Design </a></li>
+																	<li><a href="#"> 4. Environmental Health and Safety </a></li>
+																</ul> </li>
+																<li class="dropdown-submenu">
+																<a class="test" href="#">D. Healthcare Policy<span
+																	class="caret"></span></a></li>
+														</ul></li>
+													<li class="dropdown-submenu"><a class="test" tabindex="-1"
+														href="#">(III)Others<span class="caret"></span></a>
+														<ul class="dropdown-menu">
+															<li><a tabindex="-1" href="#"></a>B. Future of Healthcare</li>
+															<li class="dropdown-submenu"><a class="test" href="#">A.
+																	Healthcare Engineering Education & Training <span
+																	class="caret"></span>
+															</a>
+																<ul class="dropdown-menu">
+																	<li><a href="#">1. Collegiate Educationa></li>
+																	<li><a href="#">2.Continued Education</a></li>
+																</ul></li>
+														</ul></li>
+												</ul>
+											</div>
+										</div>
+
+										<script>
+										$(document).ready(function(){
+  										$('.dropdown-submenu a.test').on("click", function(e){
+    									$(this).next('ul').toggle();
+    									e.stopPropagation();
+    									e.preventDefault();
+  										});
+										});
+										</script>
+
+
+										<!--  
+										<div class="form-group">
+											<select class="form-control  input-lg" id="category_type"
+												name="category_type" required>
+												<option selected="" value="">Select Healthcare category</option>
+              <?php
+                $sql = "SELECT * FROM healthcarejobcategory";
+                $result = $conn->query($sql);
+                
+                if ($result->num_rows > 0) {
+                    while ($row = $result->fetch_assoc()) {
+                        echo "<option value='" . $row['category_type'] . "' data-id='" . $row['id'] . "'>" . $row['category_type'] . "</option>";
+                    }
+                }
+                ?>
+            
+										</div>
+										<div id="stateDiv" class="form-group" style="display: none;">
+											<select class="form-control  input-lg" id="bci_group"
+												name="bci_group" required>
+												<option value="" selected="">Select Category</option>
+											</select>
+										</div>
+										<div id="cityDiv" class="form-group" style="display: none;">
+											<select class="form-control  input-lg" id="dshci"
+												name="dshci" required>
+												<option selected="">Select Sub-Category</option>
+											</select>
+										</div>

@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+.form-textbox {
+
+width: 28%;
+margin: 8px 0;
+height: 48px;
+
+border:1px solid #d2d6de; 
+
+}
+
+
+input[type=text]:focus {
+    border-color:#333;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
